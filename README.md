@@ -1,4 +1,4 @@
-# workshops / Invited talks
+# Workshops / Invited talks
 
 |ID|Dates|Topic/Title|Host|Material|
 |--|--|:--:|--|--|
