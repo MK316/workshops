@@ -7,6 +7,6 @@
 | | | | |
 
 
-[^1]: Pan-Korea English Teachers Association [팬코리아영어교육학회]([https://github.com/MK316/pketa22/blob/main/README.md](https://pketa.jams.or.kr/co/locale.kci?lang=en_US))
+[^1]: Pan-Korea English Teachers Association [팬코리아영어교육학회](https://pketa.jams.or.kr/co/locale.kci?lang=en_US)
 [^2]: Institute of Language & Information Studies [연세대학교 언어정보연구원](https://devcms.yonsei.ac.kr/ilis_en/index.do)
  
