@@ -1,4 +1,6 @@
-# Workshops / Invited talks
+# ⛄ Workshops / Invited talks
+
+_Teaching is one of the best ways to learn._
 
 |ID|Dates|Topic/Title|Host|Material|
 |--|--|:--:|--|--|
