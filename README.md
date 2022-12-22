@@ -6,5 +6,5 @@
 | | | | |
 
 
-[^1]: Institute of Language & Information Studies (연세대학교 언어정보연구원)
+[^1]: Institute of Language & Information Studies [연세대학교 언어정보연구원](https://devcms.yonsei.ac.kr/ilis_en/index.do)
  
