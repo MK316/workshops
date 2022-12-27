@@ -1,1 +1,1 @@
-# Invited Talk (2023. 01. 26, TBA)
+# Invited Talk (2023. 01. 26) in preparation
