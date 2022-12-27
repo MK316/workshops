@@ -7,4 +7,5 @@
 |--|--|--|
 |Understanding speech sounds| | |
 |Written vs. Spoken data| | |
+|Speech corpus|||
 |Open AI|||
