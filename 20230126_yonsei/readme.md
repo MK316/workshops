@@ -1,7 +1,8 @@
-# Invited Talk (2023. 01. 26) in preparation
+# Invited Talk in preparation
 
 - Hosted by Institute of Language & Information Studies at Yonsei University
 - Title: Leveraging the Potential of Spoken data in the AI-Powered Digital Age
+- Date & time: 2pm, Jan 26, 2023.
 
 |Keywords|Demo (Python Notebook)|References|
 |--|--|--|
