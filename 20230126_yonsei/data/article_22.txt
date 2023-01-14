@@ -58,4 +58,6 @@ What makes the new breed of A.I. tools different, some critics believe, is not j
 
 Even some who are impressed by A.I.-generated art have concerns about how it’s being made. Andy Baio, a technologist and writer, wrote in a recent essay that DALL-E 2, perhaps the buzziest A.I. image generator on the market, was “borderline magic in what it’s capable of conjuring, but raises so many ethical questions, it’s hard to keep track of them all.”
 
+This is the end of the article. 
+
 
