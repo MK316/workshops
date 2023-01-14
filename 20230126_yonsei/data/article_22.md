@@ -1,12 +1,13 @@
 [Article from New York Times](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html)
+This article is written by Kevin Roose on September, 2, 2022.
 
-
-*An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.
+**Title: 
+An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.**
+---
 
 “I won. And I didn’t break any rules.” The artwork’s creator says.
+---
 
-
-This article is written by Kevin Roose on September, 2, 2022.
 
 This year, the Colorado State Fair’s annual art competition gave out prizes in all the usual categories: painting, quilting, sculpture.
 
