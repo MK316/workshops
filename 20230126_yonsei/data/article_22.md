@@ -6,7 +6,7 @@ An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.**
 ---
 
 “I won. And I didn’t break any rules.” The artwork’s creator says.
----
+
 
 
 This year, the Colorado State Fair’s annual art competition gave out prizes in all the usual categories: painting, quilting, sculpture.
