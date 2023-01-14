@@ -7,6 +7,6 @@
 |Keywords|Demo (Python Notebook)|References|
 |--|--|--|
 |Presentation slides| | |
-|Part 1| [Colab link](https://github.com/MK316/workshops/blob/133af556f3f28930a4bf59ea5f6962465c3515fd/20230126_yonsei/ILIS_139th_Part1.ipynb)| |
-|Part 2|[Colab link](https://github.com/MK316/workshops/blob/133af556f3f28930a4bf59ea5f6962465c3515fd/20230126_yonsei/ILIS_139th_Part2.ipynb)||
+|Part 1| [Github file link](https://github.com/MK316/workshops/blob/133af556f3f28930a4bf59ea5f6962465c3515fd/20230126_yonsei/ILIS_139th_Part1.ipynb)| |
+|Part 2|[Github file link](https://github.com/MK316/workshops/blob/133af556f3f28930a4bf59ea5f6962465c3515fd/20230126_yonsei/ILIS_139th_Part2.ipynb)||
 
