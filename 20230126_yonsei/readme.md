@@ -6,7 +6,7 @@
 
 |Keywords|Demo (Python Notebook)|References|
 |--|--|--|
-|Understanding speech sounds| | |
-|Written vs. Spoken data| | |
-|Speech corpus|||
-|Open AI|||
+|Presentation slides| | |
+|Part 1| [Colab link](https://github.com/MK316/workshops/blob/133af556f3f28930a4bf59ea5f6962465c3515fd/20230126_yonsei/ILIS_139th_Part1.ipynb)| |
+|Part 2|[Colab link](https://github.com/MK316/workshops/blob/133af556f3f28930a4bf59ea5f6962465c3515fd/20230126_yonsei/ILIS_139th_Part2.ipynb)||
+
