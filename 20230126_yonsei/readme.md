@@ -1,6 +1,6 @@
 # Invited Talk in preparation
 
-- Title: Leveraging the Potential of Spoken data in the AI-Powered Digital Age
+- Title: **Leveraging the Potential of Spoken data in the AI-Powered Digital Age**
 - Date & time: 2pm, Jan 26, 2023.
 - Hosted by Institute of Language & Information Studies at Yonsei University
 ---
