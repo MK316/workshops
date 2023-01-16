@@ -1,4 +1,4 @@
-# 🌱 Invited Talk _(in preparation)_
+# 🌱 Invited Talk _(scheduled)_
 
 - Title: **Leveraging the Potential of Spoken data in the AI-Powered Digital Age**
 - Date & time: 2pm, Jan 26, 2023.
