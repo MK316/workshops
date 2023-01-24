@@ -1,4 +1,4 @@
-# 🌱 Invited Talk _(scheduled)_
+# 🌱 ILIS talk _(23. 01. 26)_
 
 - Title: **Leveraging the Potential of Spoken data in the AI-Powered Digital Age**
 - Date & time: 2pm ~ (Jan 26. Thursday, 2023)
