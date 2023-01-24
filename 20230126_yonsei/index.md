@@ -1,4 +1,4 @@
-# 🌱 ILIS talk _(23. 01. 26)_
+# 🌱 디지털시대의 음성언어자료 이해 및 활용
 
 - Title: **Leveraging the Potential of Spoken data in the AI-Powered Digital Age**
 - Date & time: 2pm ~ (Jan 26. Thursday, 2023)
