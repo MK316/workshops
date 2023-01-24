@@ -4,7 +4,7 @@
 - Date & time: 2pm ~ (Jan 26, Thursday, 2023)
 - Hosted by the [Institute of Language & Information Studies at Yonsei University](https://ilis2.yonsei.ac.kr/ilis/index.do)
 
-**Presentation material**
+**🌀 Presentation links**
   
 |Keywords|Demo (Python coding)|Supplementary materials|
 |--|--|--|
