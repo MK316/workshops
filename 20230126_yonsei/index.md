@@ -6,7 +6,7 @@
 
 **🌀 Presentation links**
   
-|Keywords|Demo (Python coding)|Supplementary materials|
+|Keywords|Python coding (colab)|Supplementary materials|
 |--|--|--|
 |Presentation slides| [pdf file](https://github.com/MK316/workshops/blob/main/20230126_yonsei/slides/ILIS_Jan26_ver1.pdf) | |
 |Writen vs. spoken language, Understanding sounds, Praat, Speech corpus| [Part 1](https://github.com/MK316/workshops/blob/133af556f3f28930a4bf59ea5f6962465c3515fd/20230126_yonsei/ILIS_139th_Part1.ipynb)| [Display speech demo](https://github.com/MK316/workshops/blob/main/20230126_yonsei/display_speech.ipynb)|
