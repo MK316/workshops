@@ -6,7 +6,7 @@
 - Date & time: 2pm ~ (Jan. 26, Thursday, 2023)
 - Hosted by the [Institute of Language & Information Studies at Yonsei University](https://ilis2.yonsei.ac.kr/ilis/index.do)
 
-**🌀 Presentation links**
+**🌀 Presentation Material links**
   
 |Keywords|Python coding (colab)|Supplementary materials|
 |--|--|--|
