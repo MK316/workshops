@@ -1,4 +1,5 @@
-# 🌱 디지털시대의 음성언어자료 이해 및 활용
+# 🌱 디지털시대의 음성언어자료 이해 및 활용  
+(제139회 연세대학교 언어정보연구원 학술발표회)
 
 - Title: **Leveraging the Potential of Spoken data in the AI-Powered Digital Age**
 - Date & time: 2pm ~ (Jan 26, Thursday, 2023)
