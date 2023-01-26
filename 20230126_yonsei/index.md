@@ -2,7 +2,7 @@
 
 - 제139회 연세대학교 언어정보연구원 학술발표회 
 - [ZOOM meeting](https://us06web.zoom.us/j/86294814324?pwd=QngyelF6NmZLYnVNdVpvNkpySytKdz09)
-- Title: **Leveraging the Potential of Spoken data in the AI-Powered Digital Age**
+- Title: **Leveraging the Potential of Spoken data in the Digital Age**
 - Date & time: 2pm ~ (Jan. 26, Thursday, 2023)
 - Hosted by the [Institute of Language & Information Studies at Yonsei University](https://ilis2.yonsei.ac.kr/ilis/index.do)
 
