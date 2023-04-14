@@ -29,3 +29,6 @@
 + **Data-driven:** The use of analytics and AI in education helps institutions make data-informed decisions, enabling them to optimize curriculum, improve student outcomes, and enhance overall educational experiences.
 
 + **Lifelong learning:** In the AI and digital era, the rapid pace of technological advancements necessitates continuous learning and skill development. Universities are increasingly offering flexible, modular, and online programs to support lifelong learning for students and professionals alike.
+
+---
+![Issue](image01.jpeg)
