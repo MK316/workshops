@@ -10,7 +10,7 @@
 |Session 02 | Prof. JK Lee (HUFS) | TBA ||
 |Session 03 | Prof. MR Kim (GNU) | TBA ||
 
-## Session 3: Overview
+## Session 3: Issues
 
 **Q: What are five significant terms that encapsulate the transformations in higher education during the era of artificial intelligence and digital advancements?**
 
