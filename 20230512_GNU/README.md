@@ -1,6 +1,6 @@
 # 🌿 Research and Education in the AI age
 ## Title (Tentative): Insights for Future-Proof Research and Education in the AI Era. 
-(인공지능 시대를 맞이한 미래형 대학 교육?  
+인공지능 시대를 맞이한 미래형 대학 교육?  
 + Date: Friday May 12, 2023
 + Hosted by: The Humanities Research Institute at GNU
 
