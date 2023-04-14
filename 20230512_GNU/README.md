@@ -12,7 +12,7 @@
 
 ## Session 3: Issues
 
-**Q: What are five significant terms that encapsulate the transformations in higher education during the era of artificial intelligence and digital advancements?**
+**Q: What would be the 5 most significant terms that encapsulate the transformations in higher education during the era of artificial intelligence and digital advancements?**
 
 
 + **Personalization:** AI-driven adaptive learning platforms can tailor educational content to individual students' needs, strengths, and interests, providing a more personalized learning experience.
