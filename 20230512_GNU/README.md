@@ -5,6 +5,10 @@
 + Are Universities Prepared for the AI Revolution? Embracing Digital Transformation to Empower Higher Education
 + 인공지능 시대를 맞이한 미래형 대학 교육?  
 
+<p align="center">
+  <img src="image01.jpeg" width="350" title="hover text">
+</p>
+
 ## Schedule:
 + Date: Friday May 12, 2023
 + Hosted by: The Humanities Research Institute at GNU
@@ -31,10 +35,6 @@
 + **Lifelong learning:** In the AI and digital era, the rapid pace of technological advancements necessitates continuous learning and skill development. Universities are increasingly offering flexible, modular, and online programs to support lifelong learning for students and professionals alike.
 
 ---
-![Issue](image01.jpeg)
 
----
 
-<p align="center">
-  <img src="image01.jpeg" width="350" title="hover text">
-</p>
+
