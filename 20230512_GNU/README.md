@@ -8,7 +8,9 @@
 <p align="center">
   <img src="safe.png" width="650" title="hover text">
 </p>
-
+<p>
+  <img src="saferoutside.png" width="450" title="hover text">
+</p>
 ## Schedule:
 + Date: Friday May 12, 2023
 + Hosted by: The Humanities Research Institute at GNU
