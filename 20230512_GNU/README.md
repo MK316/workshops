@@ -6,7 +6,7 @@
 + 인공지능 시대를 맞이한 미래형 대학 교육?  
 
 <p align="center">
-  <img src="safe.png" width="350" title="hover text">
+  <img src="safe.png" width="650" title="hover text">
 </p>
 
 ## Schedule:
