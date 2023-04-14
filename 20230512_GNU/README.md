@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="image01.jpeg" width="350" title="hover text">
+  <img src="image02.jpeg" width="350" title="hover text">
 </p>
 
 ## Schedule:
