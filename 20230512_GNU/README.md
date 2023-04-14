@@ -10,6 +10,17 @@
 |Session 02 | Prof. JK Lee (HUFS) | TBA ||
 |Session 03 | Prof. MR Kim (GNU) | TBA ||
 
-## Overview
+## Session 3: Overview
 
-To be updated
+**Q: What are five significant terms that encapsulate the transformations in higher education during the era of artificial intelligence and digital advancements?**
+
+
++ **Personalization:** AI-driven adaptive learning platforms can tailor educational content to individual students' needs, strengths, and interests, providing a more personalized learning experience.
+
++ **Accessibility:** Online courses, digital resources, and remote learning options make higher education more accessible to a diverse population of students, breaking down geographical and financial barriers.
+
++ **Collaboration:** Digital tools and platforms facilitate global collaboration among students, educators, and researchers, fostering cross-disciplinary innovation and knowledge sharing.
+
++ **Data-driven:** The use of analytics and AI in education helps institutions make data-informed decisions, enabling them to optimize curriculum, improve student outcomes, and enhance overall educational experiences.
+
++ **Lifelong learning:** In the AI and digital era, the rapid pace of technological advancements necessitates continuous learning and skill development. Universities are increasingly offering flexible, modular, and online programs to support lifelong learning for students and professionals alike.
