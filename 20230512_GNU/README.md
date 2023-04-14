@@ -1,5 +1,5 @@
 # 🌿 Research and Education in the AI age
-## Title (Tentative): 
+## Title options (Tentative): 
 
 + Insights for Future-Proof Research and Education in the AI Era. 
 + Are Universities Prepared for the AI Revolution? Embracing Digital Transformation to Empower Higher Education
