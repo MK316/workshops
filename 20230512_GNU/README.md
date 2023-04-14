@@ -22,7 +22,7 @@
 
 ## Session 3: Issues
 
-**Q1: What would be the 5 most significant terms that encapsulate the transformations in higher education during the era of artificial intelligence and digital advancements?**
+**Q1: _What would be the 5 most significant terms that encapsulate the transformations in higher education during the era of artificial intelligence and digital advancements?_**
 
 
 + **Personalization:** AI-driven adaptive learning platforms can tailor educational content to individual students' needs, strengths, and interests, providing a more personalized learning experience.
@@ -35,7 +35,7 @@
 
 + **Lifelong learning:** In the AI and digital era, the rapid pace of technological advancements necessitates continuous learning and skill development. Universities are increasingly offering flexible, modular, and online programs to support lifelong learning for students and professionals alike.
 
-**Q2: How does multimodality in the digital era enhance the learning experience for students in higher education?
+**Q2: _How does multimodality in the digital era enhance the learning experience for students in higher education?_**
 
 In the digital era, multimodality refers to the integration and utilization of multiple modes of communication and representation within a single platform or medium. These modes can include text, images, audio, video, and interactive elements. The concept of multimodality recognizes that different modes have unique strengths and can convey information and meaning more effectively when combined.
 
