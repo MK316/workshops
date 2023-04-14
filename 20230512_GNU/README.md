@@ -32,3 +32,9 @@
 
 ---
 ![Issue](image01.jpeg)
+
+---
+
+<p align="center">
+  <img src="image01.jpeg" width="350" title="hover text">
+</p>
