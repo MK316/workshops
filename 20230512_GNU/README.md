@@ -1,5 +1,6 @@
-# 🌿 Research and Education in the AI age
-## Title options (Tentative): 
+# 🌿 인공지능, 디지털 리터러시, 융합교육: 인문학과 기술의 만남
+## Title (Tentative)
+# AI, Digital Literady, and Consilience:
 
 + Insights for Future-Proof Research and Education in the AI Era. 
 + Are Universities Prepared for the AI Revolution? Embracing Digital Transformation to Empower Higher Education
