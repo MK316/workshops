@@ -15,7 +15,7 @@
 + Hosted by: The Humanities Research Institute at GNU
 
 |Sessions | Time| Presenters | Topics | Materials |
-|--|--|--|--|--|
+|:--:|--|--|--|--|
 |Opening| 1:30pm~ (10 minutes) | Opening | TBA ||
 |Session 01 |1:40 ~ 2:45pm including Q & As (65 mins.)| Prof. HS Nam (KU) | TBA | |
 |Session 02 |2:45 ~ 3:50pm including Q & As (65 mins.)| Prof. JK Lee (HUFS) | TBA ||
