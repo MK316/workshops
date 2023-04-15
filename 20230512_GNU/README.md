@@ -21,6 +21,7 @@
 |Session 02 |2:45 ~ 3:50pm including Q & As (65 mins.)| Prof. JK Lee (HUFS) | TBA ||
 |Break| 3:50 ~ 4:10pm (20 minutes) | |||
 |Session 03 |4:10 ~ 5:15pm including Q & As (65 mins.)| Prof. MR Kim (GNU) | TBA ||
+| Discussions| 5:15~5:45pm | More Q & As, Discussions with the audience | ||
 
 ## Session 3: Issues
 
