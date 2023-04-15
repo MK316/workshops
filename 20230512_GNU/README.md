@@ -14,11 +14,13 @@
 + Date: Friday May 12, 2023
 + Hosted by: The Humanities Research Institute at GNU
 
-|Sessions | Presenters | Topics | Materials |
-|--|--|--|--|
-|Session 01 | Prof. HS Nam (KU) | TBA | |
-|Session 02 | Prof. JK Lee (HUFS) | TBA ||
-|Session 03 | Prof. MR Kim (GNU) | TBA ||
+|Sessions | Time| Presenters | Topics | Materials |
+|--|--|--|--|--|
+|Opening| 1:30pm~ | Opening | TBA ||
+|Session 01 |1:40 ~ 2:45pm | Prof. HS Nam (KU) | TBA | |
+|Session 02 |2:45 ~ 3:50pm | Prof. JK Lee (HUFS) | TBA ||
+|Break| 3:50 ~ 4:10pm (20 minutes) | |||
+|Session 03 |4:10 ~ 5:15pm | Prof. MR Kim (GNU) | TBA ||
 
 ## Session 3: Issues
 
