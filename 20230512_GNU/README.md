@@ -10,7 +10,7 @@
   <img src="saferoutside.png" width="450" title="hover text">
 </p>
 
-## Schedule:
+## 🌱 Schedule:
 + Date: Friday May 12, 2023
 + Location: TBA
 + Hosted by: The Humanities Research Institute at GNU
@@ -25,7 +25,7 @@
 |Session 03 |4:10 ~ 5:15pm <br>including Q & As | 65 mins.| Prof. MR Kim (GNU) | TBA ||
 | Discussions| 5:15~5:45pm | 30 mins| More Q & As, Discussions with the audience | ||
 
-## Session 3: Issues
+## 🌱 Session 3: Issues
 
 **Q1: _What would be the 5 most significant terms that encapsulate the transformations in higher education during the era of artificial intelligence and digital advancements?_**
 
