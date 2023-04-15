@@ -1,10 +1,5 @@
 # 🌿 AI, Digital Literacy, and Bridging Education: Connecting Humanities and Technology
-#  인공지능, 디지털 리터러시, 융합교육: 인문학과 기술의 만남
-
-
-+ Insights for Future-Proof Research and Education in the AI Era. 
-+ Are Universities Prepared for the AI Revolution? Embracing Digital Transformation to Empower Higher Education
-+ 인공지능 시대를 맞이한 미래형 대학 교육?  
+#  인공지능, 디지털 리터러시, 그리고 융합교육: 인문학과 기술의 만남
 
 <p align="center">
   <img src="safe.png" width="650" title="hover text">
