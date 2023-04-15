@@ -19,10 +19,10 @@
 |Schedule | Time| Duration | Presenters | Topics | Materials |
 |:--:|--|--|--|--|--|
 |Opening| 1:30 ~ 1:40pm | 10 mins | Opening | TBA ||
-|Session 01 |1:40 ~ 2:45pm <br>including Q & As | 65 mins.| Prof. HS Nam (KU) | TBA | |
-|Session 02 |2:45 ~ 3:50pm <br>including Q & As | 65 mins.| Prof. JK Lee (HUFS) | TBA ||
+|Session 01 |1:40 ~ 2:45pm <br>including Q & As | 65 mins.| Prof. Hosung Nam (KU) | Data, AI, Math | |
+|Session 02 |2:45 ~ 3:50pm <br>including Q & As | 65 mins.| Prof. Jun-Kyu Lee (HUFS) | NLP, Clustering, Sentiment Analysis, Topic-Modeling ||
 |Break| 3:50 ~ 4:10pm |20 mins.  |||
-|Session 03 |4:10 ~ 5:15pm <br>including Q & As | 65 mins.| Prof. MR Kim (GNU) | TBA ||
+|Session 03 |4:10 ~ 5:15pm <br>including Q & As | 65 mins.| Prof. Miran Kim (GNU) | Digital transformation in class ||
 | Discussions| 5:15~5:45pm | 30 mins| More Q & As, Discussions with the audience | ||
 
 ## 🌱 Session 3: Issues
