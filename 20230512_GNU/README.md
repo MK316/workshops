@@ -18,9 +18,9 @@
 |--|--|--|--|--|
 |Opening| 1:30pm~ (10 minutes) | Opening | TBA ||
 |Session 01 |1:40 ~ 2:45pm including Q & As (65 mins.)| Prof. HS Nam (KU) | TBA | |
-|Session 02 |2:45 ~ 3:50pm including Q & As(65 mins.)| Prof. JK Lee (HUFS) | TBA ||
+|Session 02 |2:45 ~ 3:50pm including Q & As (65 mins.)| Prof. JK Lee (HUFS) | TBA ||
 |Break| 3:50 ~ 4:10pm (20 minutes) | |||
-|Session 03 |4:10 ~ 5:15pm including Q & As(65 mins.)| Prof. MR Kim (GNU) | TBA ||
+|Session 03 |4:10 ~ 5:15pm including Q & As (65 mins.)| Prof. MR Kim (GNU) | TBA ||
 
 ## Session 3: Issues
 
