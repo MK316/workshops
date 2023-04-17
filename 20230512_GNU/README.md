@@ -15,7 +15,7 @@
 |Schedule | Time| Duration | Presenters | Topics | Materials |
 |:--:|--|--|--|--|--|
 |Opening| 1:30 ~ 1:40pm | 10 mins | Opening | TBA ||
-|Session 01 |1:40 ~ 2:45pm <br>including Q & As | 65 mins.| Prof. Hosung Nam (KU) | 데이터, 인공지능, 그리고 수학 (Data, AI, Math) | |
+|Session 01 |1:40 ~ 2:45pm <br>including Q & As | 65 mins.| Prof. Hosung Nam (KU) | 데이터, 인공지능, 그리고 챗지피티 (Data, AI, and ChatGPT) | |
 |Session 02 |2:45 ~ 3:50pm <br>including Q & As | 65 mins.| Prof. Jun-Kyu Lee (HUFS) |자연어처리와 디지털인문학 따라하기: NLP, Clustering, Sentiment Analysis, Topic-Modeling ||
 |Break| 3:50 ~ 4:10pm |20 mins.  |||
 |Session 03 |4:10 ~ 5:15pm <br>including Q & As | 65 mins.| Prof. Miran Kim (GNU) | 교실의 디지털식 전환 (Digital transformation in class) ||
