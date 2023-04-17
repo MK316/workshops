@@ -9,7 +9,7 @@
 ## 🌱 Schedule:
 + Date: Friday May 12, 2023
 + Location: TBA
-+ Hosted by: The Humanities Research Institute at GNU
++ Hosted by: GNU Humanities Laboratory (경상국립대학교 인문학연구소)
 
 
 |Schedule | Time| Duration | Presenters | Topics | Materials |
