@@ -10,7 +10,7 @@ _주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문학
 _Note: Presentation materials will be updated on May 11. (자료는 발표 전날 최종 업데이트될 예정입니다.)_
 
 |Schedule | Time | Duration | Presenter | Topics | Lecture materials |
-|:--:|--|--|:--:|--|--|
+|:--|--|--|:--:|--|--|
 |Opening| 1:30PM ~ | 10 mins | Opening |  ||
 |**Session 01** |1:40PM ~  | 60 mins.| Prof. Hosung Nam <Br>(Korea University) |  Data, AI, and ChatGPT <br>(데이터, 인공지능, 그리고 챗지피티) | |
 |**Session 02** |2:45PM ~  | 60 mins.| Prof. Jun-Kyu Lee <br>(Hankuk University of Foreign Studies) |NLP, Clustering, Sentiment Analysis, Topic-Modeling <br>(자연어처리와 디지털인문학 따라하기) ||
