@@ -1,6 +1,6 @@
 ## 🌿 2023년 경상국립대학교 인문학연구소 발표회
-## 주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문학과 기술의 만남
-(AI, Digital Literacy, and Bridging Education: Connecting Humanities and Technology)
+### AI, Digital Literacy, and Bridging Education: Connecting Humanities and Technology
+_주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문학과 기술의 만남_
 
 ## 🌱 Schedule:
 + 날 짜: Friday May 12, 2023
