@@ -16,6 +16,6 @@ _Note: Presentation materials will be updated on May 11. (자료는 발표 전�
 |Session 02 |2:45PM ~  | 65 mins.| Prof. Jun-Kyu Lee (HUFS) |NLP, Clustering, Sentiment Analysis, Topic-Modeling (자연어처리와 디지털인문학 따라하기) ||
 |Break| 3:50PM ~  |20 mins.  |||
 |Session 03 |4:10PM ~ | 65 mins.| Prof. Miran Kim (GNU) | Digital transformation in class (교실의 디지털식 전환) ||
-| Discussions| 5:15PM ~ | 30 mins| More Q & As, Discussions with the audience | ||
+| Discussions| 5:15PM ~ | 30 mins| Discussions with the audience | ||
 
 
