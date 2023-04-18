@@ -3,11 +3,11 @@
 _주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문학과 기술의 만남_
 
 ## 🌱 Schedule:
-+ 날 짜: Friday May 12, 2023
-+ 장 소: 인문대 102동 101호
-+ 주 최: 경상국립대학교 인문학연구소(GNU Humanities Laboratory)
++ Date: Friday May 12, 2023
++ Location: Humanities 102동 101호
++ Hosted by: GNU Humanities Laboratory (경상국립대 인문학연구소)
 
-자료는 발표 전날 최종 업데이트될 예정입니다.
+_Note: Presentation materials will be updated on May 11. (자료는 발표 전날 최종 업데이트될 예정입니다.)_
 
 |Schedule | Time | Duration | Presenter | Topics | Lecture materials |
 |:--:|--|--|--|--|--|
