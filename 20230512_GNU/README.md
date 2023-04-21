@@ -17,7 +17,7 @@ _Note: Presentation materials will be updated on May 11. (자료는 발표 전�
 |Schedule | Time | Duration | Presenter | Topics | Lecture materials |
 |--:|--|--|:--:|--|--|
 |Opening| 1:30PM~ | 10 mins | Opening |  ||
-|**Session 01** |1:40PM~  | 60 mins.| Prof. [Hosung Nam](https://github.com/hsnam95) <Br>(Korea University) |  Data, AI, and ChatGPT <br>(데이터, 인공지능, 그리고 챗지피티) | |
+|**Session 01** |1:40PM~  | 60 mins.| Prof. [Hosung Nam](https://github.com/hsnam95) <Br>(Korea University),<br>[Namz 연구소](https://www.youtube.com/@namz8170/featured) |  Data, AI, and ChatGPT <br>(데이터, 인공지능, 그리고 챗지피티) | |
 |**Session 02** |2:45PM~  | 60 mins.| Prof. Jun-Kyu Lee <br>(Hankuk University of Foreign Studies) |NLP, Clustering, Sentiment Analysis, Topic-Modeling <br>(자연어처리와 디지털인문학 따라하기) ||
 |_Break_| 3:50PM~  |20 mins.  |||
 |**Session 03** |4:10PM~ | 60 mins.| Prof. [Miran Kim](https://github.com/MK316) <br>(GNU) | Digital transformation in class: the integration of personalized and adaptive learning process <br>(강의실의 디지털식 ) ||
