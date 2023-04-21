@@ -1,8 +1,8 @@
 ## 🌿 2023년 경상국립대학교 인문학연구소 발표회
-### AI, Digital Literacy, and Bridging Education: Connecting Humanities and Technology
+### AI, Digital Literacy, and Convergence Education: Connecting Humanities and Technology
 _주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문학과 기술의 만남_
 
-[🔎 Poster view](https://github.com/MK316/workshops/blob/main/20230512_GNU/images/poster1.png)
+[🔎 Poster view](https://github.com/MK316/workshops/blob/main/20230512_GNU/images/GNU0523_poster.png)
 ## 🌱 Schedule:
 + Date: Friday, May 12, 2023
 + Location: Rm# 101, Humanities bldg.(인문대학 102동 101호)
