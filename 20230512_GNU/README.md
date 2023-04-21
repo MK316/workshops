@@ -14,7 +14,7 @@ _(주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문�
 
 _Note: Presentation materials will be updated on May 11. (자료는 발표 전날 최종 업데이트될 예정입니다.)_
 
-|Schedule | Time | Duration | Presenter | Topics | Lecture materials |
+|Schedule | Time | Duration | Invited Speakers | Topics | Lecture materials |
 |--:|--|--|:--:|--|--|
 |_Opening_| 1:30PM~ | 10 mins | |  ||
 |**Session 01** |1:40PM~  | 60 mins.| Prof. [Hosung Nam](https://github.com/hsnam95) <Br>(Korea University),<br>[Namz 연구소](https://www.youtube.com/@namz8170/featured) |  **Data, AI, and ChatGPT** <br>(데이터, 인공지능, 그리고 챗지피티) | [Tobeupdated]|
