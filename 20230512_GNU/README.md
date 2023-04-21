@@ -3,8 +3,7 @@
 _주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문학과 기술의 만남_
 
 <p align="center">
-  <img src="safe.png" width="650" title="hover text">
-  <img src="poster_small.png" width="450" title="hover text">
+  <img src="poster_small.png" width="350" title="hover text">
 </p>
 
 [🔎 Poster view](https://github.com/MK316/workshops/blob/main/20230512_GNU/images/GNU0523_poster.png)
