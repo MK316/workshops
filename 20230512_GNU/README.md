@@ -12,7 +12,7 @@ _(주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문�
 + Location: Rm# 101, Humanities bldg#102.(인문대학 102동 101호)
 + Hosted by: GNU Humanities Laboratory (경상국립대 인문학연구소)
 
-_Notes: 
+**_Notes:_** 
 1. Presentation materials will be updated on May 11. (자료는 발표 전날 최종 업데이트될 예정입니다.) 
 2. If you would like to participate in the hands-on practice on the same day, please bring your own digital device. You can bring a laptop, tablet, or smartphone. (당일 실습을 직접 해 보고싶은 분들은 개인 디지털 기기를 가져오시면 됩니다. 노트북, 전자 패드, 스마트 폰 모두 가능합니다.)
 
