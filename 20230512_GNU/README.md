@@ -19,10 +19,10 @@ _(주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문�
 |Schedule | Time | Duration | Invited Speakers | Topics | Lecture materials |
 |--:|--|--|:--:|:--:|--|
 |_Opening_| 1:30PM~ | 10 mins | |  ||
-|**Session 01** |1:40PM~  | 60 mins.| Prof. [Hosung Nam](https://github.com/hsnam95) <Br>([Korea University](https://english.korea.ac.kr/english/about/professor.do)),<br>[Namz 연구소](https://www.youtube.com/@namz8170/featured) |  **Data, AI, and ChatGPT** <br>(데이터, 인공지능, 그리고 챗지피티) | [To be updated]|
-|**Session 02** |2:45PM~  | 60 mins.| Prof. [Jun-Kyu Lee](http://builder.hufs.ac.kr/user/indexSub.action?codyMenuSeq=81372758&siteId=gse2&menuType=T&uId=1&sortChar=A&linkUrl=1_4.html&mainFrame=right#gse2_09) <br>(Hankuk University of Foreign Studies) |**NLP, Clustering, Sentiment Analysis, Topic-Modeling** <br>(자연어처리와 디지털인문학 따라하기) |[To be updated]|
+|**Session 01** |1:40PM~  | 60 mins.| Prof. [Hosung Nam](https://github.com/hsnam95) <Br>([Korea University](https://english.korea.ac.kr/english/about/professor.do)),<br>[Namz 연구소](https://www.youtube.com/@namz8170/featured) |  **Data, AI, and ChatGPT** <br>(데이터, 인공지능, 그리고 챗지피티) | [To be updated (5/11)]|
+|**Session 02** |2:45PM~  | 60 mins.| Prof. [Jun-Kyu Lee](http://builder.hufs.ac.kr/user/indexSub.action?codyMenuSeq=81372758&siteId=gse2&menuType=T&uId=1&sortChar=A&linkUrl=1_4.html&mainFrame=right#gse2_09) <br>(Hankuk University of Foreign Studies) |**NLP, Clustering, Sentiment Analysis, Topic-Modeling** <br>(자연어처리와 디지털인문학 따라하기) |[To be updated (5/11)]|
 |_Break_| 3:50PM~  |20 mins.  |||
-|**Session 03** |4:10PM~ | 60 mins.| Prof. [Miran Kim](https://github.com/MK316) <br>([Dept. of English Education, GNU](https://www.gnu.ac.kr/englishedu/pi/prfsr/selectPrfsrIntrdView.do?mi=7463&ctgrySn=1403)) | **Digital Transformation in Class** <br>(강의실의 디지털 혁신 ) |[To be updated]|
+|**Session 03** |4:10PM~ | 60 mins.| Prof. [Miran Kim](https://github.com/MK316) <br>([Dept. of English Education, GNU](https://www.gnu.ac.kr/englishedu/pi/prfsr/selectPrfsrIntrdView.do?mi=7463&ctgrySn=1403)) | **Digital Transformation in Class** <br>(강의실의 디지털 혁신 ) |[To be updated (5/11)]|
 | _Discussions_| 5:15PM~ | 30 mins|  |Discussions with the audience ||
 
 
