@@ -1,5 +1,5 @@
-## 🌵 2023년 경상국립대학교 인문학연구소 학술대회 초청강연  
-### AI, Digital Literacy, and Convergence Education: Connecting Humanities and Technology
+## 🌵 AI, Digital Literacy, and Convergence Education: Connecting Humanities and Technology2023년  
+### 경상국립대학교 인문학연구소 학술대회 초청강연 
 _(주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문학과 기술의 만남)_
 
 <p align="center">
