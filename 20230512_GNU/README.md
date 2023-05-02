@@ -17,7 +17,7 @@ _(주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문�
 + If you would like to participate in the hands-on practice on the same day, please bring your own digital device. You can bring a laptop, tablet, or smartphone. (당일 실습을 직접 해 보고싶은 분들은 개인 디지털 기기를 가져오시면 됩니다. 노트북, 전자 패드, 스마트 폰 모두 가능합니다.)
 + There is no separate registration process, but if you plan to attend, clicking 👍[here](https://forms.gle/2Txq7cp3Vugfs88H9) and providing basic information would be helpful. (별도의 등록과정은 없으나 참석하실 분은 👍[여기](https://forms.gle/2Txq7cp3Vugfs88H9)를 눌러 간단한 정보를 제공해 주시면 준비하는 데 큰 도움이 됩니다.)
 
-📲스마트폰에서 보시는 경우 오른쪽으로 스크롤하면 아래 내용을 다 보실 수 있습니다. 
+📲스마트폰에서 보시는 경우 오른쪽으로 스크롤하면 가려지는 내용을 보실 수 있습니다. 
 
 |Schedule | Time | Duration | Invited Speakers | Topics | Lecture materials |
 |--:|--|--|:--:|:--:|--|
