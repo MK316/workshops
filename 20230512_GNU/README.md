@@ -26,6 +26,6 @@ _(주제: 인공지능, 디지털 리터러시, 그리고 융합교육: 인문�
 |**Session 02** |2:45PM~  | 60 mins.| Prof. [Junkyu Lee](http://builder.hufs.ac.kr/user/indexSub.action?codyMenuSeq=81372758&siteId=gse2&menuType=T&uId=1&sortChar=A&linkUrl=1_4.html&mainFrame=right#gse2_09) <br>(Hankuk University of Foreign Studies) |**NLP, Topic-Modeling, Sentiment Analysis, Clustering** <br>(자연어처리와 디지털인문학 따라하기) |[Session2 자료링크](https://github.com/junkyuhufs/workshop/blob/main/GNU_Session2.ipynb)|
 |_Break_| 3:50PM~  |20 mins.  |||
 |**Session 03** |4:10PM~ | 60 mins.| Prof. [Miran Kim](https://github.com/MK316) <br>([Dept. of English Education, GNU](https://www.gnu.ac.kr/englishedu/pi/prfsr/selectPrfsrIntrdView.do?mi=7463&ctgrySn=1403)) | **Digital Transformation in Class** <br>(강의실의 디지털 전환 ) |[Session3 자료링크](https://github.com/MK316/workshops/blob/main/20230512_GNU/GNU_session03.ipynb)|
-| _Discussions_| 5:15PM~ | 30 mins|  |Discussions with the audience ||
+| _Discussions_| 5:15PM~ | 30 mins|  |Q&As, Discussions with the audience ||
 
 
