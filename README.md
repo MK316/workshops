@@ -11,4 +11,4 @@ _Teaching is one of the best ways to learn._
 
 [^1]: Pan-Korea English Teachers Association [팬코리아영어교육학회](https://pketa.jams.or.kr/co/locale.kci?lang=en_US)
 [^2]: Institute of Language & Information Studies [연세대학교 언어정보연구원](https://devcms.yonsei.ac.kr/ilis_en/index.do)
-[^3]: Humanities Laboratories at GNU [경상국립대 인문학연구소](https://www.gnu.ac.kr/human/main.do)
+[^3]: Humanities Laboratories, GNU [경상국립대 인문학연구소](https://www.gnu.ac.kr/human/main.do)
