@@ -1,4 +1,5 @@
 # Digital Literacy and English Education
+**Title: Digital Proficiency in English Pedagogy: What Every Teacher Should Know**
 
 - Hosted by Dept. of English Education at Chosun University
 - Date: TBA
