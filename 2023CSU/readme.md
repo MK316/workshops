@@ -6,7 +6,7 @@
 ## Lecture material
 
 |No.|File|Keywords|Link|
-|==|==|==|==|
+|--|--|--|--|
 |01|L01.ipynb|Introduction|[link]()|
 |01|L01.ipynb|Introduction|[link]()|
 
