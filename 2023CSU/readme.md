@@ -6,7 +6,7 @@
 3. Digital Proficiency for future English Teachers
 
 - Hosted by Dept. of English Education at Chosun University
-- Date: TBA
+- Date: 2023. October
 
 ## Lecture material
 
