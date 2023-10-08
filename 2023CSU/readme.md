@@ -1,6 +1,6 @@
 # 🌱 Digital Literacy and English Education
 **Title (tentative):**
-미래교육을 위한 예비 영어교사의 역량: 디지털 리터러시   
+미래교육을 위한 예비 영어교사의 디지털 리터러시 역량   
 (Digital Proficiency in English Education: What Every Teacher Should Know)
 
 
