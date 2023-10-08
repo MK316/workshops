@@ -5,7 +5,7 @@
 
 
 - Hosted by Dept. of English Education at Chosun University
-- Date: October, 2023
+- Date: October 30, 2023
 
 ## Lecture material
 
