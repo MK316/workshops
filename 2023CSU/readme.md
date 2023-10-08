@@ -12,5 +12,13 @@
 |No.|File|Keywords|Link|
 |--|--|--|--|
 |01|L01.ipynb|Introduction|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture01.ipynb)|
-|01|L01.ipynb|Introduction|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture02.ipynb)|
+|02|L02.ipynb|Introduction|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture02.ipynb)|
+
+## Samples
+
+|No.|Keywords|Description|Code Link|
+|--|--|--|--|
+|01|QR code|Generate QR codes|[link]()|
+|02|TTS, STT|Speech to text, Text to speech|[link]()|
+|03|Language game|Word game, story game|[link]()|
 
