@@ -11,6 +11,6 @@
 
 |No.|File|Keywords|Link|
 |--|--|--|--|
-|01|L01.ipynb|Introduction|[link]()|
-|01|L01.ipynb|Introduction|[link]()|
+|01|L01.ipynb|Introduction|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture01.ipynb)|
+|01|L01.ipynb|Introduction|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture02.ipynb)|
 
