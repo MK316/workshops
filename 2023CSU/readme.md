@@ -21,6 +21,7 @@
 |01|QR code|Generate QR codes|[link]()|
 |02|TTS, STT|Speech to text, Text to speech|[link]()|
 |03|Language game|Word game, story game|[link]()|
+|04|Music notes to generate|User generated midi or mp3 file|[link](https://github.com/MK316/workshops/blob/main/2023CSU/Melody.ipynb)|
 
 [💜💙 Emoji list 💙💜](https://gist.github.com/rxaviers/7360908)
 
