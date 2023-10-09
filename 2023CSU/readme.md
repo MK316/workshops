@@ -4,7 +4,7 @@
 (Digital Proficiency in English Education: What Every Teacher Should Know)
 
 
-- Hosted by Dept. of English Education at Chosun University
+- Hosted by Dept. of English Education at Chosun University, Gwangju
 - Date: October 30, 2023
 
 ## Lecture material
