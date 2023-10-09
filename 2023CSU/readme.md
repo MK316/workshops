@@ -22,3 +22,6 @@
 |02|TTS, STT|Speech to text, Text to speech|[link]()|
 |03|Language game|Word game, story game|[link]()|
 
+[💜💙 Emoji list 💙💜](https://gist.github.com/rxaviers/7360908)
+
+
