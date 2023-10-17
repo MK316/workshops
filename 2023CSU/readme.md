@@ -5,7 +5,8 @@
 
 
 - Hosted by Dept. of English Education at Chosun University, Gwangju
-- Date: October 30, 2023
+- Date&Time: 12:00~14:00, October 30, 2023
+- Location: Rm#4118, College of Education
 
 ## Lecture material
 
