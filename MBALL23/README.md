@@ -1,9 +1,9 @@
 # 🍁 2023 MBALL Conference
 
-* Date: 2023. 10. 28 (Sat)
+* Date: 12:50~17:30, 2023. 10. 28 (Sat)
 * Location: 3rd floor, Bldg.# 301, Gyeongsang National University
 
-## Schedule
+## Presentation Schedule
 
 [Program download 💾](https://github.com/MK316/workshops/blob/main/MBALL23/MBALL_1028_Program.pdf)
 
