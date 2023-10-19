@@ -5,6 +5,8 @@
 
 ## Schedule
 
+[Program download 💾](https://github.com/MK316/workshops/blob/main/MBALL23/MBALL_1028_Program.pdf)
+
 ## Campus map: to the conference venue
 + [image download](https://github.com/MK316/workshops/blob/main/MBALL23/mball23_map_small.png)
 + Inquiries to mirankim@gnu.ac.kr
