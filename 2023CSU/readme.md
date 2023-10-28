@@ -16,7 +16,7 @@
 |02|Part2 Lecture slides | Digital literacy training for language teachers||
 |02|Part3: Coding demo|Four language skills: Reading, Writing, Listening, and Speaking with AI tools|[Code page link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_part3.ipynb)|
 
-## Samples
+## Digital Tools for class/language learning&teaching
 
 |No.|Keywords|Description|Code Link|
 |--|--|--|--|
