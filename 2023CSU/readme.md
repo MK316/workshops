@@ -13,8 +13,8 @@
 |No.|File|Keywords|Code Link|
 |--|--|--|--|
 |01|Part1 Lecture slides|WhyD, WhatD, HowD?|[pdf download]()|
-|02|Part2 | Digital literacy training for language teachers||
-|02|Part3: Coding demo|Four language skills: Reading, Writing, Listening, and Speaking with AI tools|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_part3.ipynb)|
+|02|Part2 Lecture slides | Digital literacy training for language teachers||
+|02|Part3: Coding demo|Four language skills: Reading, Writing, Listening, and Speaking with AI tools|[Code page link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_part3.ipynb)|
 
 ## Samples
 
