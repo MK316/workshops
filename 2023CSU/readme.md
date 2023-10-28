@@ -12,9 +12,9 @@
 
 |No.|File|Keywords|Code Link|
 |--|--|--|--|
-|01|L01.ipynb|Digital literacy in the AI era, Digital transformation of classroom|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture01.ipynb)|
-|02|L02.ipynb|Digital skills and digital proficiency, Tools for language teaching, Digital training for future teachers|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture02.ipynb)|
-|03|L03.ipynb|Four language skills: Reading, Writing, Listening, and Speaking with AI tools|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_lecture03.ipynb)|
+|01|Part1 Lecture slides|WhyD, WhatD, HowD?|[pdf download]()|
+|02|Part2 | Digital literacy training for language teachers||
+|02|Part3: Coding demo|Four language skills: Reading, Writing, Listening, and Speaking with AI tools|[link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_part3.ipynb)|
 
 ## Samples
 
