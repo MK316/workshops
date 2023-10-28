@@ -25,7 +25,7 @@
 |03|Language game|Word game, story game|[link]()|
 |04|Music notes to generate|User generated midi or mp3 file|[link](https://github.com/MK316/workshops/blob/main/2023CSU/Melody.ipynb)|
 |05|Wordcloud, Summary|Generate a wordcloud image with your text or a link, Summarize text|[link](https://github.com/MK316/workshops/blob/main/2023CSU/wordcloud_summarize.ipynb)|
-|06|Spoken Vocabulary|Generate audio of word list (e.g., Oxford 3K Voca)|[Code page](https://github.com/MK316/applications/blob/main/Oxford3K_tts.ipynb)|
+|06|Spoken Vocabulary|Generate audio of word list (e.g., Oxford 3K Voca)|[link](https://github.com/MK316/applications/blob/main/Oxford3K_tts.ipynb)|
 
 [💜💙 Emoji list 💙💜](https://gist.github.com/rxaviers/7360908)
 
