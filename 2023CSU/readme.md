@@ -21,7 +21,7 @@
 |No.|Keywords|Description|Code Link|
 |--|--|--|--|
 |01|QR code|Generate QR codes|[link](https://github.com/MK316/Spring2023/blob/main/QRcode.ipynb)|
-|02|TTS, STT|Speech to text, Text to speech|[link]()|
+|02|TTS, STT|Speech to text, Text to speech|[link](https://github.com/MK316/Class_Spring2022/blob/main/2023CSU/TTS_STT.ipynb)|
 |03|Language game|Word game, story game|[link]()|
 |04|Music notes to generate|User generated midi or mp3 file|[link](https://github.com/MK316/workshops/blob/main/2023CSU/Melody.ipynb)|
 |05|Wordcloud, Summary|Generate a wordcloud image with your text or a link, Summarize text|[link](https://github.com/MK316/workshops/blob/main/2023CSU/wordcloud_summarize.ipynb)|
