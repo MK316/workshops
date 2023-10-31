@@ -12,7 +12,7 @@
 
 |No.|File|Keywords|Code Link|
 |--|--|--|--|
-|01|Part1 Lecture slides|WhyD, WhatD, HowD?|[pdf download](https://github.com/MK316/workshops/raw/main/2023CSU/CSU1030_slides_light.pdf)|
+|01|Part1 Lecture slides|WhyDL, WhichDL, HowDL?|[pdf download](https://github.com/MK316/workshops/raw/main/2023CSU/CSU1030_slides_light.pdf)|
 |02|Part2 Lecture slides | Digital literacy training for language teachers||
 |02|Part3: Coding demo|Four language skills: Reading, Writing, Listening, and Speaking with AI tools|[Code page link](https://github.com/MK316/workshops/blob/main/2023CSU/CU_part3.ipynb)|
 
