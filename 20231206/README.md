@@ -6,5 +6,5 @@
 ## Lecture material
 
 |No.|Key words| Descriptions| Links|
-|==|==|==|==|
+|--|--|--|--|
 |1|Lecture slides| AI era ||
