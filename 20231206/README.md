@@ -1,4 +1,4 @@
-# Living with AI: What changes?
+# 👀 Living with AI: What changes?
 
 
-+ Lecture series at GNU Museum  (Dec. 06, 2023)
++ 🎄 Lecture series at GNU Museum  (Dec. 06, 2023)
