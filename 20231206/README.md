@@ -1,4 +1,4 @@
 # Living with AI: What changes?
-===
 
-(Dec. 06, 2023) Lecture series at GNU Museum
+
++ Lecture series at GNU Museum  (Dec. 06, 2023)
