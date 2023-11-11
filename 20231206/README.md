@@ -50,3 +50,19 @@ Defining the AI era involves understanding the profound impact of artificial int
 
 + Legislation and regulation developed to manage AI's ethical and societal implications.
 + International standards and agreements on AI use and development.
+
+## AI in the mobile market
+
+One prominent example of AI in the mobile market is the use of personalized recommendations and virtual assistants. Take, for instance, Apple’s Siri or Google Assistant. These virtual assistants use AI to understand natural language, interpret voice commands, and provide relevant responses or actions. They learn from user interactions to improve over time and offer more personalized and accurate assistance. AI is used in the mobile market for app recommendations. Based on your previous downloads, interests, and usage patterns, your smartphone’s app store can suggest new apps that you might find useful or entertaining.
+
+## AI in automobiles
+
+When it comes to automobiles, artificial intelligence is making significant strides, particularly in the development of autonomous or self-driving cars.
+
+Companies like Tesla, Google's Waymo, and several traditional automobile manufacturers are using AI to process data from vehicle sensors and make split-second decisions that can help avoid accidents and navigate the road.
+
+AI in cars is not just limited to self-driving capabilities. It's also used for features like predictive maintenance, voice recognition for hands-free commands, and personalized settings that adjust to a driver’s preferences.
+
+For example, AI algorithms can analyze data from a car’s sensors to predict when parts may need maintenance before they break down. This proactive approach can enhance safety and efficiency.
+
+In this context, AI is transforming how we interact with vehicles, making them safer, more efficient, and more attuned to our preferences. 
