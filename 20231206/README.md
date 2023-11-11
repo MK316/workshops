@@ -11,7 +11,7 @@
 
 ## Temporary notes
 
-Defining the AI era involves understanding the profound impact of artificial intelligence on various sectors of society, economy, and daily life. Here are some criteria and references that could be used to define and understand the AI era:
+Defining the AI era involves understanding the profound impact of artificial intelligence on various sectors of society, economy, and daily life. Here are some criteria that could be used to define and understand the AI era:
 
 ### Criteria for Defining the AI Era:
 
