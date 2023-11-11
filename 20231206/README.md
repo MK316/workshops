@@ -20,11 +20,10 @@ Defining the AI era involves understanding the profound impact of artificial int
 + The degree to which AI is integrated into consumer products, business operations, healthcare, transportation, and other fields.
 + The extent of smart technology use in homes and cities (smart homes, smart grids, and smart cities).
 
-**2. Economic Impact:**
+**2. Education and Skill Development:**
 
-+ Changes in job markets due to automation and AI tools.
-+ AI’s contribution to GDP growth.
-+ The investment landscape for AI startups and research.
++ Evolution in education curricula to include AI and related technologies.
++ Training programs and re-skilling initiatives for the workforce.
 
 **3. Advancements in Research:**
 
@@ -36,10 +35,11 @@ Defining the AI era involves understanding the profound impact of artificial int
 + Shifts in public perception of technology.
 +  he role of AI in arts, education, and entertainment.
 
-**5. Education and Skill Development:**
+**5. Economic Impact:**
 
-+ Evolution in education curricula to include AI and related technologies.
-+ Training programs and re-skilling initiatives for the workforce.
++ Changes in job markets due to automation and AI tools.
++ AI’s contribution to GDP growth.
++ The investment landscape for AI startups and research.
 
 **6. Healthcare Advancements:**
 
