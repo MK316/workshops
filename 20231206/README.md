@@ -31,12 +31,12 @@ Defining the AI era involves understanding the profound impact of artificial int
 + Milestones in machine learning and neural networks research.
 + Breakthroughs in computer vision, natural language processing, and robotics.
 
-  4. Policy and Governance:
+4. Policy and Governance:
 
 + Legislation and regulation developed to manage AI's ethical and societal implications.
 + International standards and agreements on AI use and development.
 
-  5. Cultural and Social Changes:
+5. Cultural and Social Changes:
 
 + Shifts in public perception of technology.
 +  he role of AI in arts, education, and entertainment.
