@@ -8,6 +8,7 @@
 |No.|Key words| Descriptions| Links|
 |--|--|--|--|
 |1|Lecture slides| AI era ||
+|2|Lecture codes | Survey, demos|[link](https://github.com/MK316/workshops/blob/main/20231206/GNU1206.ipynb)|
 
 ## Temporary notes
 
