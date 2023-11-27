@@ -8,7 +8,7 @@ _Teaching is one of the best ways to learn._
 |2023|01.26|Leveraging the Potential of Spoken data in the AI-Powered Digital Age|ILIS [^2], Yonsei Univ.|[link](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md)|
 | |05.12 |AI, Digital Literacy, and Convergence Education | Humanities Laboratories at GNU [^3] | [link](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md)|
 | |10.30 | _(In preparation)_ Digital Proficiency in English Education: <br> What Every Teacher Should Know | Dept. of English Education at Chosun University | [link](https://github.com/MK316/workshops/tree/main/2023CSU)|
-| |12.06 | _(In preparation)_ AI가 열어놓은 새로운 세상 - ChatGPT와 같은 생성형 AI 도구들의 이해|제3기 박물관대학 문화교양아카데미, GNU Museum [^4]|link|
+| |12.06 | _(In preparation)_ AI가 열어놓은 새로운 세상 - ChatGPT와 같은 생성형 AI 도구들의 이해|제3기 박물관대학 문화교양아카데미, GNU Museum [^4]|[link](https://github.com/MK316/workshops/tree/main/20231206)|
 
 
 [^1]: Pan-Korea English Teachers Association [팬코리아영어교육학회](https://pketa.jams.or.kr/co/locale.kci?lang=en_US)
