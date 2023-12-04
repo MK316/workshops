@@ -7,7 +7,7 @@
 
 |No.|Key words| Descriptions| Links|
 |--|--|--|--|
-|1|Lecture slides| AI era ||
+|1|Lecture slides| AI era |[Link](https://padlet.com/mirankim316/2023-gnu-museum-academy-lecture-8-o14jzyho9kiakbou)|
 |2|Lecture codes | Survey, demos|[link](https://github.com/MK316/workshops/blob/main/20231206/GNU1206.ipynb)|
 
 ## Temporary notes
