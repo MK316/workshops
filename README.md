@@ -5,10 +5,10 @@ _Teaching is one of the best ways to learn._
 |YEAR|Dates|Topic/Title|Hosted by|Lecture link|
 |:--|:--|:--:|--|:--:|
 | 2024 |05.31 | (In Preparation) Digital Transformation of Language Classroom| HUFS ||
-| |12.06 |AI가 열어놓은 새로운 세상 - ChatGPT와 같은 생성형 AI 도구들의 이해|제3기 박물관대학 문화교양아카데미, GNU Museum [^4]|[link](https://github.com/MK316/workshops/tree/main/20231206)|
+| 2023 |12.06 |AI가 열어놓은 새로운 세상 - ChatGPT와 같은 생성형 AI 도구들의 이해|제3기 박물관대학 문화교양아카데미, GNU Museum [^4]|[link](https://github.com/MK316/workshops/tree/main/20231206)|
 | |10.30 | Digital Proficiency in English Education: <br> What Every Teacher Should Know | Dept. of English Education at Chosun University | [link](https://github.com/MK316/workshops/tree/main/2023CSU)|
 | |05.12 |AI, Digital Literacy, and Convergence Education | Humanities Laboratories at GNU [^3] | [link](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md)|
-|2023|01.26|Leveraging the Potential of Spoken data in the AI-Powered Digital Age|ILIS [^2], Yonsei Univ.|[link](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md)|
+||01.26|Leveraging the Potential of Spoken data in the AI-Powered Digital Age|ILIS [^2], Yonsei Univ.|[link](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md)|
 |2022|10.22| Introducing Python & R for Language Research and Education | 2022 PKETA[^1] International Conference|[link](https://github.com/MK316/pketa22/blob/main/README.md)|
 
 
