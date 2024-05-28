@@ -1,32 +1,30 @@
-# Empowering Education: The Critical Role of Coding and Software Skills in Today’s Classroom
+# 🌿 Digital Transformation in Classroom: + Coding
+(교실 수업의 디지털 전환: 코딩 더하기)
 
-Welcome to "Empowering Education," a lecture designed to illustrate the transformative role of coding and software skills in modern education. This session will highlight practical strategies for integrating coding into classroom activities, enhancing both teaching and learning through technological empowerment.
++ Hosted by: College of Education, HUFS
++ Time & date: 11AM~12:30PM, May 31st, 2024
++ Meeting: ZOOM [link](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)
 
-## Overview
+![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
 
-In a world increasingly driven by technology, the need for comprehensive software education is paramount. This lecture delves into the practical applications of coding in educational settings, focusing on how teachers can harness these skills to foster a more engaging and effective learning environment.
+Welcome to "Digital Transformation in Classroom," a lecture designed to discuss the transformative role of coding and software skills in modern education. This lecture will highlight strategies for integrating coding into classroom activities, enhancing both teaching and learning through technological empowerment.
 
 ## Structure of the Talk
 
 The lecture is divided into four main parts, each designed to build upon the other to provide a comprehensive view of the significance of coding in education:
 
-1. **The Necessity of Coding Knowledge in the Digital Age**
-   - Understanding the universal applications and importance of coding skills today.
+1. **Technology to Classroom?**
+   - Examine the gradual yet impactful shift toward software-centric teaching tools in education, contrasting it with the slower adoption of physical technology in classrooms. Highlight how coding emerges as a crucial skill, underpinning the successful integration of technology in today’s teaching environments.
 
-2. **Benefits of Coding in the Classroom**
-   - Exploring how coding supports educational goals through enhanced problem-solving, logical thinking, and creative expression.
+2. **Multimodality and language teaching**
+   - Discuss how coding integrates into language teaching by enhancing multimodal learning strategies, which foster greater engagement and deeper understanding through diverse sensory experiences.
 
-3. **Coding as a Tool for Teachers**
+3. **Coding to the classroom**
    - Practical demonstrations on how coding can be utilized by educators to create dynamic content and manage classroom activities efficiently.
 
-4. **Integration Strategies for Coding in Education**
-   - Step-by-step guidance on incorporating coding into existing curricula, overcoming barriers, and fostering an interdisciplinary approach.
+4. **Teacher qualifications in the digital era**
+   - Provide detailed strategies for educators on how to acquire and integrate coding skills into their teaching practices, addressing potential challenges and highlighting the benefits of a multidisciplinary approach.
 
-## Main Ideas
-
-- **Empowerment through Coding**: Emphasize how coding equips teachers with the tools to innovate and customize learning experiences.
-- **Practical Demonstration**: Utilize Google Colab to show real-time coding examples that can be applied in classroom settings.
-- **Resource Accessibility**: Discuss how coding resources, such as open-source platforms and community forums, can be leveraged to enhance educational practices.
 
 ## Demonstration on Colab
 
