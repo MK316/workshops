@@ -21,19 +21,17 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 
 ## 📙 Structure of the Talk
 
-The lecture is divided into four main parts, each designed to build upon the other to provide a brief introduction of the significance of coding in education:
+The lecture is divided into three main parts, each designed to build upon the other to provide a brief introduction of the significance of coding in education:
 
 1. **Technology to Classroom?**
    - Examine the gradual yet impactful shift toward software-centric teaching tools in education, contrasting it with the slower adoption of physical technology in classrooms. Highlight how coding emerges as a crucial skill, underpinning the successful integration of technology in today’s teaching environments.
 
-2. **Multimodality and language teaching**
+2. **Multimodality and Education**
    - Discuss how coding integrates into language teaching by enhancing multimodal learning strategies, which foster greater engagement and deeper understanding through diverse sensory experiences.
 
-3. **Coding to the classroom: Demonstration of Coding for classes**
+3. **Coding to the Classroom: Demonstration of Coding for classes**
    - Practical demonstrations on how coding can be utilized by educators to create dynamic content and manage classroom activities efficiently.
 
-4. **Teacher qualifications in the digital era**
-   - Provide detailed strategies for educators on how to acquire and integrate coding skills into their teaching practices, addressing potential challenges and highlighting the benefits of a multidisciplinary approach.
 
 Join me in discovering ways to turn the classroom into an engaging, tech-enhanced environment where learning and innovation come together.
 
