@@ -17,6 +17,7 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 |2|Coding page to open|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/240531_HUFS.ipynb)|
 |3|My Application Hub|✅[link](https://mrkim21.github.io)|
 |4|Digital Classroom (Github)|✅ [link](https://github.com/MK316/Spring2024/blob/main/README.md)|
+|5|Q & As (online)|✅ [link](https://padlet.com/mirankim316/hufs0531)|
 
 ## 📙 Structure of the Talk
 
