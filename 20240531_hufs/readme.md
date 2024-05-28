@@ -2,9 +2,9 @@
 
 ### 🌿 Talk title: Digital Transformation in Classroom: + Coding (교실 수업의 디지털 전환: 코딩 더하기)
 
-+ Hosted by: [College of Education, HUFS](https://builder.hufs.ac.kr/user/boardList.action?command=view&page=1&boardId=26502&boardSeq=185037850)
++ Hosted by: [College of Education, HUFS[^1](https://builder.hufs.ac.kr/user/boardList.action?command=view&page=1&boardId=26502&boardSeq=185037850)
 + Time & date: 11AM~12:30PM, 5/31 (Fri), 2024
-+ Speaker: Miran Kim (Associate professor, [Dept. of English Education](https://englishedu.gnu.ac.kr) at GNU)
++ Speaker: Miran Kim (Associate professor, [Dept. of English Education](https://englishedu.gnu.ac.kr) at GNU[^2])
 + Meeting: [ZOOM](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)(Need Passcode to join)
 + Email to: [message](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
 
@@ -37,4 +37,6 @@ The lecture is divided into three main parts, each designed to build upon the ot
 Join me in discovering ways to turn the classroom into an engaging, tech-enhanced environment where learning and innovation come together.
 
 ---
+[^1]: Hankook University of Foreign Studies
+[^2]: Gyeongsang National University
 
