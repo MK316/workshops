@@ -14,7 +14,7 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 |--|--|
 |Lecture slides|[link]()|
 |Coding page to open|[link]()|
-|Language Applications|[link](https://mrkim21.github.io)|
+|My Application Hub|[link](https://mrkim21.github.io)|
 |Digital Classroom (Github)|[link](https://github.com/MK316/Spring2024/blob/main/README.md)|
 
 ## 📙 Structure of the Talk
