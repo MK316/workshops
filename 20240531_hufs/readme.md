@@ -5,7 +5,7 @@
 + Hosted by: [College of Education, HUFS](https://builder.hufs.ac.kr/user/boardList.action?command=view&page=1&boardId=26502&boardSeq=185037850)
 + Time & date: 11AM~12:30PM, 5/31 (Fri), 2024
 + Speaker: Miran Kim (Associate professor, [Dept. of English Education](https://englishedu.gnu.ac.kr) at GNU)
-+ Meeting: [ZOOM](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)
++ Meeting: [ZOOM](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)(Need Passcode to join)
 + Email to: [message](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
 
 Welcome to "Digital Transformation in Classroom," a lecture designed to discuss the transformative role of coding and software skills in modern education. This lecture will highlight strategies for integrating coding into classroom activities, enhancing both teaching and learning through technological empowerment.
