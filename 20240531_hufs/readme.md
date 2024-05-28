@@ -27,22 +27,13 @@ The lecture is divided into four main parts, each designed to build upon the oth
 2. **Multimodality and language teaching**
    - Discuss how coding integrates into language teaching by enhancing multimodal learning strategies, which foster greater engagement and deeper understanding through diverse sensory experiences.
 
-3. **Coding to the classroom**
+3. **Coding to the classroom: Demonstration of Coding for classes**
    - Practical demonstrations on how coding can be utilized by educators to create dynamic content and manage classroom activities efficiently.
 
 4. **Teacher qualifications in the digital era**
    - Provide detailed strategies for educators on how to acquire and integrate coding skills into their teaching practices, addressing potential challenges and highlighting the benefits of a multidisciplinary approach.
 
-
-## 📙 Demonstration on Colab
-
-During the lecture, I will demonstrate practical coding exercises using Google Colab. These examples will showcase how simple coding techniques can be used to:
-- Create interactive learning materials.
-- Automate routine educational tasks.
-- Analyze educational data to improve teaching strategies.
-
 Join me in exploring how we can transform the classroom into a vibrant, technology-enabled space where education meets innovation.
 
 ---
 
-For updates and additional resources, please follow [Insert your social media or academic profile link here].
