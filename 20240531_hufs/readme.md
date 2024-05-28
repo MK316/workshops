@@ -4,12 +4,13 @@
 + Hosted by: College of Education, HUFS
 + Time & date: 11AM~12:30PM, May 31st, 2024
 + Meeting: [ZOOM](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)
++ Contact: [Mail-to]()
 
 Welcome to "Digital Transformation in Classroom," a lecture designed to discuss the transformative role of coding and software skills in modern education. This lecture will highlight strategies for integrating coding into classroom activities, enhancing both teaching and learning through technological empowerment.
 
 ![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
 
-## Structure of the Talk
+## 📙 Structure of the Talk
 
 The lecture is divided into four main parts, each designed to build upon the other to provide a comprehensive view of the significance of coding in education:
 
@@ -26,7 +27,7 @@ The lecture is divided into four main parts, each designed to build upon the oth
    - Provide detailed strategies for educators on how to acquire and integrate coding skills into their teaching practices, addressing potential challenges and highlighting the benefits of a multidisciplinary approach.
 
 
-## Demonstration on Colab
+## 📙 Demonstration on Colab
 
 During the lecture, I will demonstrate practical coding exercises using Google Colab. These examples will showcase how simple coding techniques can be used to:
 - Create interactive learning materials.
