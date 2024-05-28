@@ -1,4 +1,5 @@
-# 🌿 Digital Transformation in Classroom: + Coding
+![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
+🌿 Digital Transformation in Classroom: + Coding
 (교실 수업의 디지털 전환: 코딩 더하기)
 
 + Hosted by: College of Education, HUFS
@@ -8,7 +9,7 @@
 
 Welcome to "Digital Transformation in Classroom," a lecture designed to discuss the transformative role of coding and software skills in modern education. This lecture will highlight strategies for integrating coding into classroom activities, enhancing both teaching and learning through technological empowerment.
 
-![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
+
 
 |Lecture materials | Link|
 |--|--|
