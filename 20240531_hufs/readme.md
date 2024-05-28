@@ -5,9 +5,9 @@
 + Time & date: 11AM~12:30PM, May 31st, 2024
 + Meeting: [ZOOM](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)
 
-![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
-
 Welcome to "Digital Transformation in Classroom," a lecture designed to discuss the transformative role of coding and software skills in modern education. This lecture will highlight strategies for integrating coding into classroom activities, enhancing both teaching and learning through technological empowerment.
+
+![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
 
 ## Structure of the Talk
 
