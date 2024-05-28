@@ -14,7 +14,7 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 
 ||Lecture materials | Link|
 |--|--|--|
-|1|Lecture slides|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/Hufs0531_slides.pdf)|
+|1|Lecture slides|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/Hufs0531_slides.pdf), 💾 [File to download](https://github.com/MK316/workshops/raw/main/20240531_hufs/Hufs0531_slides.pdf)|
 |2|Coding page to open|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/240531_HUFS.ipynb)|
 |3|My Application Hub|✅ [link](https://mrkim21.github.io)|
 |4|Digital Classroom (Github)|✅ [link](https://github.com/MK316/Spring2024/blob/main/README.md)|
