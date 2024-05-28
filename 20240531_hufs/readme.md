@@ -4,7 +4,7 @@
 + Hosted by: College of Education, HUFS
 + Time & date: 11AM~12:30PM, May 31st, 2024
 + Meeting: [ZOOM](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)
-+ Contact: [Mail-to]()
++ Contact: [Asking Questions?](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
 
 Welcome to "Digital Transformation in Classroom," a lecture designed to discuss the transformative role of coding and software skills in modern education. This lecture will highlight strategies for integrating coding into classroom activities, enhancing both teaching and learning through technological empowerment.
 
