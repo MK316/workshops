@@ -19,7 +19,7 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 
 ## 📙 Structure of the Talk
 
-The lecture is divided into four main parts, each designed to build upon the other to provide a comprehensive view of the significance of coding in education:
+The lecture is divided into four main parts, each designed to build upon the other to provide a brief introduction of the significance of coding in education:
 
 1. **Technology to Classroom?**
    - Examine the gradual yet impactful shift toward software-centric teaching tools in education, contrasting it with the slower adoption of physical technology in classrooms. Highlight how coding emerges as a crucial skill, underpinning the successful integration of technology in today’s teaching environments.
