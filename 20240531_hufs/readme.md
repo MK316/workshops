@@ -33,7 +33,7 @@ The lecture is divided into four main parts, each designed to build upon the oth
 4. **Teacher qualifications in the digital era**
    - Provide detailed strategies for educators on how to acquire and integrate coding skills into their teaching practices, addressing potential challenges and highlighting the benefits of a multidisciplinary approach.
 
-Join me in exploring how we can transform the classroom into a vibrant, technology-enabled space where education meets innovation.
+Join me in discovering ways to turn the classroom into an engaging, tech-enhanced environment where learning and innovation come together.
 
 ---
 
