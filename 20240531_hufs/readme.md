@@ -1,7 +1,6 @@
 ![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
 
-### 🌿 Talk title: Digital Transformation in Classroom: + Coding
-(교실 수업의 디지털 전환: 코딩 더하기)
+### 🌿 Talk title: Digital Transformation in Classroom: + Coding (교실 수업의 디지털 전환: 코딩 더하기)
 
 + Hosted by: College of Education, HUFS
 + Time & date: 11AM~12:30PM, 5/31 (Fri), 2024
