@@ -10,6 +10,12 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 
 ![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
 
+|Lecture materials | Link|
+|--|--|
+|Coding page to open|[link]()|
+|Language Applications|[link](https://mrkim21.github.io)|
+|Digital Classroom (Github)|[link](https://github.com/MK316/Spring2024/blob/main/README.md)|
+
 ## 📙 Structure of the Talk
 
 The lecture is divided into four main parts, each designed to build upon the other to provide a comprehensive view of the significance of coding in education:
@@ -22,12 +28,6 @@ The lecture is divided into four main parts, each designed to build upon the oth
 
 3. **Coding to the classroom**
    - Practical demonstrations on how coding can be utilized by educators to create dynamic content and manage classroom activities efficiently.
-
-|Keywords | Link|
-|--|--|
-|Coding page to open|[link]()|
-|Language Applications|[link](https://mrkim21.github.io)|
-|Digital Classroom|[link]()|
 
 4. **Teacher qualifications in the digital era**
    - Provide detailed strategies for educators on how to acquire and integrate coding skills into their teaching practices, addressing potential challenges and highlighting the benefits of a multidisciplinary approach.
