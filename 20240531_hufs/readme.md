@@ -3,7 +3,7 @@
 
 + Hosted by: College of Education, HUFS
 + Time & date: 11AM~12:30PM, May 31st, 2024
-+ Meeting: ZOOM [link](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)
++ Meeting: [ZOOM](https://us02web.zoom.us/j/9273550402?pwd=U1grckNhN25xUEkzN3lFcjdqWjVHZz09)
 
 ![](https://github.com/MK316/workshops/raw/main/20240531_hufs/image0531.png)
 
