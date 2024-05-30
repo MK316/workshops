@@ -15,10 +15,10 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 ||Lecture materials | Link||Materials|
 |--|--|--|--|--|
 |1|Lecture slides|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/Hufs0531_slides.pdf), 💾 [File to download](https://github.com/MK316/workshops/raw/main/20240531_hufs/Hufs0531_slides.pdf)|6| [Sample survey](https://forms.gle/mQL9bWABHsdX89Bk9)|
-|2|Coding page to open|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/240531_HUFS.ipynb)|7| App #1 [MultiTTS](https://mk-316-MultiTTS.hf.space)|
-|3|My Application Hub|✅ [link](https://mrkim21.github.io)|8|App #2 [PronunciationFeedback](https://mk-316-pronunciationfeedback.hf.space)|
-|4|Digital Classroom (Github)|✅ [link](https://github.com/MK316/Spring2024/blob/main/README.md)|9|App #3 [SentenceSplit](https://mk-316-splitsentences.hf.space)|
-|5|Q & As (online)|✅ [link](https://padlet.com/mirankim316/hufs0531)|10|App #4 []()|
+|2|Coding page to open|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/240531_HUFS.ipynb)|7| App #1 [MultiTTS](https://mk-316-MultiTTS.hf.space) (Text-to-Speech)|
+|3|My Application Hub|✅ [link](https://mrkim21.github.io)|8|App #2 [PronunciationFeedback](https://mk-316-pronunciationfeedback.hf.space) (Speech Recognition)|
+|4|Digital Classroom (Github)|✅ [link](https://github.com/MK316/Spring2024/blob/main/README.md)|9|App #3 [SentenceSplit](https://mk-316-splitsentences.hf.space) (NLP)|
+|5|Q & As (online)|✅ [link](https://padlet.com/mirankim316/hufs0531)|10|App #4 [TCE](https://mk-316-TCE-hf.space) (Exam Questions)|
 
 ## 📙 Structure of the Talk
 
