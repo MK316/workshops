@@ -12,8 +12,8 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 
 
 
-||Lecture materials | Link|
-|--|--|--|
+||Lecture materials | Link||Materials|
+|--|--|--|--|--|
 |1|Lecture slides|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/Hufs0531_slides.pdf), 💾 [File to download](https://github.com/MK316/workshops/raw/main/20240531_hufs/Hufs0531_slides.pdf)|6| [Sample survey](https://forms.gle/mQL9bWABHsdX89Bk9)|
 |2|Coding page to open|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/240531_HUFS.ipynb)|7| App #1 [MultiTTS](https://mk-316-MultiTTS.hf.space)|
 |3|My Application Hub|✅ [link](https://mrkim21.github.io)|8|App #1 []()|
