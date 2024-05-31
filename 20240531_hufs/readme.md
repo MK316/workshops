@@ -12,6 +12,8 @@ Welcome to "Digital Transformation in Classroom," a lecture designed to discuss 
 
 
 * 주의사항: Huggingface에 올려진 앱은 현재 무료계정으로 이용중이기 때문에 3일 동안 활동이 없는 앱은 Sleep 모드로 전환됩니다. 따라서 나중에 방문하셨을 때에는 앱이 실행되지 않을 수 있습니다. 이 경우는 코드를 복사해서 본인이 직접 실행하여 사용하실 수 있습니다.)
+
+  
 ||Lecture materials | Link||Materials (주의: 앱은 3일간 무활동시 Sleep모드로 전환)|
 |--|--|--|--|--|
 |1|Lecture slides|✅ [link](https://github.com/MK316/workshops/blob/main/20240531_hufs/Hufs0531_slides.pdf), 💾 [File to download](https://github.com/MK316/workshops/raw/main/20240531_hufs/Hufs0531_slides.pdf)|6| [Sample survey](https://forms.gle/mQL9bWABHsdX89Bk9)|
