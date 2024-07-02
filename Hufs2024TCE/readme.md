@@ -16,7 +16,7 @@ This special lecture is prepared to review the basic concepts for the English li
 
 ### Q&As
 
-+ Padlet link to post your questions 🌀[Click here]()
++ Padlet link to post your questions 🌀[Click here](https://padlet.com/mirankim316/hufs0730)
 
 ### TCE online
 
