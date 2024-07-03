@@ -7,7 +7,9 @@ This special lecture is prepared to review the basic concepts for the English li
   
 ## Materials
 
-🌀 [Exam Questions Viewer](https://mrkim21.github.io/appfolder/TCE.html)  🌀 Q&As: [Padlet](https://padlet.com/mirankim316/hufs0730)  🌀 [Messaging](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2) 
++ 🌀 Exam Questions Viewer [APP](https://mrkim21.github.io/appfolder/TCE.html)  
++ 🌀 Q&As: [Padlet](https://padlet.com/mirankim316/hufs0730)
++ 🌀 [Messaging](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2) 
 
 
 |Session|Date & Time|Topics|Lecture slides|Supplementary|
