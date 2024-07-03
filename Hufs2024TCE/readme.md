@@ -18,7 +18,7 @@ This special lecture is prepared to review the basic concepts for the English li
 |Day 2|10AM~5PM,<br>July 31|Phonologivcal processes,<br> (Intonation: TBA),<br>(Morphology: TBA)|[Lecture slide: morphology](https://github.com/MK316/workshops/blob/main/Hufs2024TCE/data/02-Hufs0730-Morphology.pdf)|[MorphologyQs](https://github.com/MK316/workshops/blob/main/Hufs2024TCE/data/03-Morphology_Examquestions.pdf)|
 
 
-### TCE online
+### TCE online (open on your smartphone)
 
 
 ![QR](https://github.com/MK316/workshops/blob/main/Hufs2024TCE/data/TCElink.png)
