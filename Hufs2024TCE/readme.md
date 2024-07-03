@@ -3,12 +3,12 @@
 This special lecture is prepared to review the basic concepts for the English linguistics section of the secondary teacher examination. It will cover the fundamentals of phonetics, phonological concepts, and, if time permits, related concepts in morphology.
 
 + Schedule: July 30 & 31 (10AM~5PM)
-+ Location: (will be announced)
++ Location: 교수학습개발원 204 (will be confirmed in time)
   
 ## Materials
 
 🌀 [Exam Questions Viewer](https://mrkim21.github.io/appfolder/TCE.html)  
-🌀 Q&As on [Padlet](https://padlet.com/mirankim316/hufs0730)
+🌀 **Q&As**   yt4 on [Padlet](https://padlet.com/mirankim316/hufs0730)
 
 |Session|Date & Time|Topics|Lecture slides|Supplementary|
 |--|--|--|--|--|
