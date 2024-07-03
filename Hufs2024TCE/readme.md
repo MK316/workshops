@@ -12,7 +12,7 @@ This special lecture is prepared to review the basic concepts for the English li
 
 |Session|Date & Time|Topics|Lecture slides|Supplementary|
 |--|--|--|--|--|
-|Day 1|10AM~5PM,<br>July 30|Fundamental concepts in Phonetics|[Lecture slide 01](https://github.com/MK316/workshops/blob/main/Hufs2024TCE/data/01-Hufs0730-Phonology.pdf)||
+|Day 1|10AM~5PM,<br>July 30|Fundamental concepts in Phonetics|[Lecture slide 01](https://github.com/MK316/workshops/blob/main/Hufs2024TCE/data/01-Hufs0730-Phonology.pdf)|[Reading](https://drive.google.com/file/d/1G_IDpEbNzAY2LYbPaxMu3p-uzqDZ124y/view?usp=sharing): Features|
 |Day 2|10AM~5PM,<br>July 31|Phonologivcal processes, (Intonation), (Morphology)|[Lecture slide: morphology](https://github.com/MK316/workshops/blob/main/Hufs2024TCE/data/02-Hufs0730-Morphology.pdf)|[MorphologyQs](https://github.com/MK316/workshops/blob/main/Hufs2024TCE/data/03-Morphology_Examquestions.pdf)|
 
 ### Q&As
