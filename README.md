@@ -5,7 +5,7 @@
 
 |YEAR|Dates|Topic/Title|Hosted by|Lecture link|
 |:--|:--|:--:|--|:--:|
-| 2024 |05.31 | Digital Transformation of Classroom: <br>Plus Coding| 전문가초청 워크숍 시리즈 5: AI, 디지털혁신과 교실의 미래; <br>한국외국어대 교육대학원 [^5], [Program schedule](https://builder.hufs.ac.kr/user/boardList.action?command=view&page=1&boardId=26502&boardSeq=185037850) |[link](https://github.com/MK316/workshops/blob/main/20240531_hufs/readme.md)|
+| 2024 |05.31 | Digital Transformation of Classroom: <br>Plus Coding| 전문가초청 워크숍 시리즈 5: AI, 디지털혁신과 교실의 미래; <br>한국외국어대 교육대학원 [^5]<br> [Program](https://builder.hufs.ac.kr/user/boardList.action?command=view&page=1&boardId=26502&boardSeq=185037850) |[link](https://github.com/MK316/workshops/blob/main/20240531_hufs/readme.md)|
 | 2023 |12.06 |AI가 열어놓은 새로운 세상 - ChatGPT와 같은 생성형 AI 도구들의 이해|제3기 박물관대학 문화교양아카데미, <br>GNU Museum [^4]|[link](https://github.com/MK316/workshops/tree/main/20231206)|
 | |10.30 | Digital Proficiency in English Education: <br> What Every Teacher Should Know | Dept. of English Education <br>Chosun University | [link](https://github.com/MK316/workshops/tree/main/2023CSU)|
 | |05.12 |AI, Digital Literacy, and Convergence Education | Humanities Laboratories <br>GNU [^3] | [link](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md)|
