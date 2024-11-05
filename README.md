@@ -1,7 +1,7 @@
 # ⛄ Workshops / Invited talks 
 (Since 2022)
 
-_Teaching is one of the best ways to learn._
+_"Teaching is one of the best ways to learn."_
 
 |YEAR|Dates|Topic/Title|Hosted by|Lecture link|
 |:--|:--|:--:|--|:--:|
