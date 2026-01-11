@@ -5,7 +5,7 @@
 
 |YEAR|Dates|Topic/Title|Hosted by|Lecture link|
 |:--|:--|:--:|--|:--:|
-|2026| 01.12| Streamlit into your class| GNU 인문대 AI 연구 모임 | [link](https://gnu26112.streamlit.app/)|  
+|2026| 01.12| Bringing Streamlit into Your Classroom| GNU 인문대 AI 연구 모임 | [link](https://gnu26112.streamlit.app/)|  
 | 2025 | 03.14| Coding-based Learning apps: Application deployment using Streamlit | GNU 사범대학 화학교육과 유기합성연구실 |[link](https://gnu-chemistry.streamlit.app)|
 | 2024 |12.14 | AI in Education: 현장교사를 위한 앱개발 사례: <br>Python coding, Gradio, Huggingface, Streamlit | 제1회 경상 디지털교육나눔 한마당<br>경상디지털교육자연합(G-DEAL) & GNU|[link](https://241214.streamlit.app)|
 | |05.31 | Digital Transformation of Classroom: <br>Plus Coding| 전문가초청 워크숍 시리즈 5: AI, 디지털혁신과 교실의 미래; <br>한국외국어대 교육대학원 [^5]<br> [Program](https://builder.hufs.ac.kr/user/boardList.action?command=view&page=1&boardId=26502&boardSeq=185037850) |[link](https://github.com/MK316/workshops/blob/main/20240531_hufs/readme.md)|
