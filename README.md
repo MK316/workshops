@@ -5,6 +5,8 @@
 
 |YEAR|Dates|Topic/Title|Hosted by|Lecture link|
 |:--|:--|:--:|--|:--:|
+|2026| 08.24-25| TCE workshop| 한국교원대학교 | |  
+|2026| 07.27-28| TCE workshop| 한국외국어대학교 | |  
 |2026| 01.12| Bringing Streamlit into Your Classroom| GNU 인문대 AI 연구 모임 | [link](https://gnu26112.streamlit.app/)|  
 | 2025 | 03.14| Coding-based Learning apps: Application deployment using Streamlit | GNU 사범대학 화학교육과 유기합성연구실 |[link](https://gnu-chemistry.streamlit.app)|
 | 2024 |12.14 | AI in Education: 현장교사를 위한 앱개발 사례: <br>Python coding, Gradio, Huggingface, Streamlit | 제1회 경상 디지털교육나눔 한마당<br>경상디지털교육자연합(G-DEAL) & GNU|[link](https://241214.streamlit.app)|
